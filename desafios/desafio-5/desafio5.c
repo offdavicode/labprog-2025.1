@@ -20,8 +20,8 @@ int main() {
 
     do {
         printf("\n===== MENU =====\n");
-        printf("1 - Calcular média final (MF)\n");
-        printf("2 - Calcular nota necessária na AV5 para passar na média\n");
+        printf("1 - Calcular média final\n");
+        printf("2 - Calcular média restante\n");
         printf("0 - Sair\n");
         printf("Escolha uma opção: ");
         scanf("%d", &opcao);
